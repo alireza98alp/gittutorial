@@ -26,6 +26,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Mohadese Fr 🌱](https://github.com/mohadesefr)
 - [hosein javidmehr 🔥](https://github.com/bigbro8)
 - [Fatemeh :unamused:](https://github.com/FatemehMashayekhi)
+- [Alireza](https://github.com/alireza98alp)
 - [ConfusedCharacter :relaxed:](https://github.com/ConfusedCharacter)
 - [Mohammadreza ShahriyarKeshe 🎯](https://github.com/mohammadrezashsk)
 - [AmirHosseinSadeghDaghighi](https://github.com/iamAmirSadeghi)
